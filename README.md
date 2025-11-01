@@ -56,7 +56,7 @@
 ### Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
 </div>
 
 ### Frameworks & Libraries
@@ -74,13 +74,13 @@
 ### DevOps & Cloud Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,linux,bash,git,grafana,firebase" />
+  <img src="https://skillicons.dev/icons?i=openstack,docker,kubernetes,aws,azure,linux,bash,git,githubactions,jenkins,terraform,ansible,grafana,prometheus,firebase" />
 </div>
 
 ### Development Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postman,android,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,postman,tensorflow" />
 </div>
 
 ## 📊 GitHub Analytics
