@@ -13,7 +13,7 @@
   Hi there, I'm Phạm Duy Chiến
 </h1>
 
-<h3 align="center">🚀 A passionate System Engineer from Việt Nam 🇻🇳</h3>
+<h3 align="center">🚀 A passionate Devops Engineer from Việt Nam 🇻🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benphamdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="benphamdev" />
@@ -27,7 +27,7 @@
 
 <img align="right" alt="coding gif" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I'm currently working as a **System Engineer**
+- 🔭 I'm currently working as a **Devops Engineer**
 - 🌱 I'm currently learning **DevOps Skills & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Cybersecurity Projects**
 - 🤝 I'm looking for help with **Advanced DevOps Practices**
@@ -40,7 +40,7 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/chienpham-cloud" target="_blank">
+  <a href="www.linkedin.com/in/chienpham-devops" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:phamchien152003@gmail.com" target="_blank">
