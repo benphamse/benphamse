@@ -91,7 +91,7 @@
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-ruby-ten-27.vercel.app/api/top-langs/?username=benphamse&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.1&count_weight=0.9" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-ruby-ten-27.vercel.app/api/top-langs/?username=benphamse&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.1&count_weight=0.9&hide=html,css,scss,markdown,cmake,go,Stylus,less,CoffeeScript,PHP,shell,dockerfile,makefile,cmake" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
