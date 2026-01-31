@@ -86,12 +86,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=benphamse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-ruby-ten-27.vercel.app/api?username=benphamse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=benphamse&count_private=true&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benphamse&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-ruby-ten-27.vercel.app/api/top-langs/?username=benphamse&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
