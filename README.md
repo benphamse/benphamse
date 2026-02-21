@@ -62,7 +62,7 @@
 ### Frameworks & Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,express" />
+  <img src="https://skillicons.dev/icons?i=spring,react,express" />
 </div>
 
 ### Databases & Storage
