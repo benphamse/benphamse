@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io) -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Phạm+Duy+Chiến!;Welcome+to+my+profile!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Phạm+Duy+Chiến!;DevOps+%7C+SRE+%7C+Cloud+%7C+MLOps;Welcome+to+my+profile!;" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   Hi there, I'm Phạm Duy Chiến
 </h1>
 
-<h3 align="center">🚀 A passionate SRE (Site Reliability Engineer) from Việt Nam 🇻🇳</h3>
+<h3 align="center">🚀 A passionate DevOps / SRE / Cloud / MLOps Engineer from Việt Nam 🇻🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benphamse&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="benphamse" />
@@ -27,11 +27,11 @@
 
 <img align="right" alt="coding gif" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I'm currently working as a **SRE (Site Reliability Engineer)**
-- 🌱 I'm currently learning **DevOps Skills & Cloud Technologies**
-- 👯 I'm looking to collaborate on **Cybersecurity Projects**
-- 🤝 I'm looking for help with **Advanced DevOps Practices**
-- 💬 Ask me about **Cloud architecture, System Architecture**
+- 🔭 I'm currently working as a **DevOps / SRE / Cloud / MLOps Engineer**
+- 🌱 I'm currently learning **SRE Practices, Cloud Technologies & MLOps**
+- 👯 I'm looking to collaborate on **DevOps, Cloud & MLOps Projects**
+- 🤝 I'm looking for help with **Advanced SRE & MLOps Practices**
+- 💬 Ask me about **Cloud Architecture, SRE, DevOps & MLOps**
 - 📫 How to reach me: **<phamchien152003@gmail.com>**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
 
@@ -83,10 +83,16 @@
   <img src="https://skillicons.dev/icons?i=kafka" />
 </div>
 
+### MLOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" />
+</div>
+
 ### Development Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,postman,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,postman" />
 </div>
 
 ## 📊 GitHub Analytics
