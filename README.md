@@ -13,7 +13,7 @@
   Hi there, I'm Phạm Duy Chiến
 </h1>
 
-<h3 align="center">🚀 A passionate Devops Engineer from Việt Nam 🇻🇳</h3>
+<h3 align="center">🚀 A passionate SRE (Site Reliability Engineer) from Việt Nam 🇻🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benphamse&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="benphamse" />
@@ -27,7 +27,7 @@
 
 <img align="right" alt="coding gif" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-- 🔭 I'm currently working as a **Devops Engineer**
+- 🔭 I'm currently working as a **SRE (Site Reliability Engineer)**
 - 🌱 I'm currently learning **DevOps Skills & Cloud Technologies**
 - 👯 I'm looking to collaborate on **Cybersecurity Projects**
 - 🤝 I'm looking for help with **Advanced DevOps Practices**
@@ -75,6 +75,12 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=openstack,docker,kubernetes,aws,azure,linux,bash,git,githubactions,jenkins,terraform,ansible,grafana,prometheus,firebase" />
+</div>
+
+### Messaging
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" />
 </div>
 
 ### Development Tools
