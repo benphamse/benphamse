@@ -86,7 +86,12 @@
 ### MLOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/KServe-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="KServe" />
+  <img src="https://img.shields.io/badge/Kubeflow-003F8C?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </div>
 
 ### Development Tools
